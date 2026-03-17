@@ -1,6 +1,6 @@
 # Hi, I'm Suhas Reddy Kotla 👋
 
-🎓 Computer Science student at Lewis University  
+🎓 Artificial Intelligence student at Lewis University  
 🔭 Currently building AI-powered applications using AWS  
 🌱 Learning cloud architecture, machine learning, and full-stack development  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suhasreddykotla) | suhasreddykotla@lewisu.edu
