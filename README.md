@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suhas%20Reddy%20Kotla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Graduate%20Researcher%20%7C%20GenAI%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=\n\ MS+in+Artificial+Intelligence+%40+Lewis+University;GPA%3A+4.0+%2F+4.0;LLM+Fine-tuning+%7C+MLOps+%7C+GenAI+Systems;Building+AI+that+solves+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=\n\__MS+in+Artificial+Intelligence+%40+Lewis+University;GPA%3A+4.0+%2F+4.0;LLM+Fine-tuning+%7C+MLOps+%7C+GenAI+Systems;Building+AI+that+solves+real+problems)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/kotla-suhas-reddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
