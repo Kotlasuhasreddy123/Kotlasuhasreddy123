@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suhas%20Reddy%20Kotla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Graduate%20Researcher%20%7C%20GenAI%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MS+Artificial+Intelligence+%40+Lewis+University;GPA%3A+4.0+%2F+4.0;LLM+Fine-tuning+%7C+MLOps+%7C+GenAI+Systems;Building+AI+that+solves+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=MS+Artificial+Intelligence+%40+Lewis+University;GPA%3A+4.0+%2F+4.0;AWS+AIdeas+Top+300+%2F+10%2C000+%F0%9F%8F%86;LLM+Evaluation+%7C+MLOps+%7C+GenAI+Systems)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/kotla-suhas-reddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,7 +24,7 @@ suhas = {
     "focus"      : ["LLM Fine-tuning", "MLOps", "GenAI / Agentic Systems"],
     "currently"  : "Medical ML research @ Rosalind Franklin Hospital",
     "seeking"    : "Summer / Fall 2026 Internship — GenAI | ML Engineering | MLOps",
-    "published"  : "AWS Builders Platform — AIdeas 2025 Competition"
+    "achievement": "AWS AIdeas Top 300 / 10,000 — advancing to final 50 judging round"
 }
 ```
 
@@ -65,17 +65,32 @@ suhas = {
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 <div align="center">
 
 | | |
 |---|---|
-| **🌿 Gro-Sential AI** | AI-powered food waste reduction platform |
+| **🏆 Gro-Sential AI** | **Top 300 / 10,000 — AWS Global AIdeas Competition ($250K prize pool)** |
 | Stack | AWS Bedrock (Claude 3 Haiku) · Rekognition · DynamoDB · Python Flask |
-| Impact | 40–60% food waste reduction for beta users |
-| Published | [AWS Builders Platform — AIdeas 2025](https://builder.aws.com/content/3AjyCEomS3A3EW2rRuRWuoR8Af7/aideas-gro-sential-ai-ai-powered-food-waste-reduction-platform) |
-| Repo | [github.com/Kotlasuhasreddy123/Gro-Sential-AI](https://github.com/Kotlasuhasreddy123/Gro-Sential-AI) |
+| Impact | 40–60% food waste reduction · $1,500/year household savings addressed |
+| Article | [AWS Builder Center](https://builder.aws.com/content/3AjyCEomS3A3EW2rRuRWuoR8Af7/aideas-gro-sential-ai-ai-powered-food-waste-reduction-platform) |
+| Repo | [Gro-Sential-AI](https://github.com/Kotlasuhasreddy123/Gro-Sential-AI) |
+
+| | |
+|---|---|
+| **🧠 ConfidenceCalibration-Bench** | **Google DeepMind × Kaggle AGI Competition ($200K prize pool)** |
+| Stack | Python · Llama 3 · Mistral · Ollama · kaggle-benchmarks SDK |
+| Scale | 307 questions · 61% acceptance rate · Brier Score + ECE scoring |
+| Dataset | [Kaggle Dataset](https://www.kaggle.com/datasets/kotlasuhasreddy/meta-cognitive-calibration-benchmark-for-llms) |
+| Repo | [ConfidenceCalibration-Bench](https://github.com/Kotlasuhasreddy123/ConfidenceCalibration-Bench) |
+
+| | |
+|---|---|
+| **🏀 March Machine Learning Mania 2026** | **Kaggle Competition** |
+| Stack | Python · Scikit-Learn · Logistic Regression · Isotonic Calibration |
+| Scale | 132,133 NCAA matchup predictions · 15 years of training data · 7 features |
+| Repo | [March-Machine-Learning-Mania-2026](https://github.com/Kotlasuhasreddy123/March-Machine-Learning-Mania-2026) |
 
 </div>
 
